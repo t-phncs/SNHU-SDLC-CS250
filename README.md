@@ -1,12 +1,15 @@
 # SNHU-SDLC-CS250
-Tam Phan
-<br/>Product Owner's Journal
-<br/>Scrum Master's Journal
-<br/>Developer's Journal
-<br/>Tester's Journal
-<br/>Communication Practices
-<br/>Sprint Review and Retrospective
-<br/>Daily Scrum
-<br/>Agile Chart Template
-<br/>User Stories Test Cases
-<br/>Agile Presentation
+<h2>Tam Phan</h2>
+<ul>
+  <li>Product Owner's Journal</li>
+  <li>Scrum Master's Journal</li>
+  <li>Developer's Journal</li>
+  <li>Tester's Journal</li>
+  <li>Communication Practices</li>
+  <li>Sprint Review and Retrospective</li>
+  <li>Daily Scrum</li>
+  <li>Agile Chart Template</li>
+  <li>User Stories Test Cases</li>
+  <li>Agile Presentation</li>
+</ul>
+  
