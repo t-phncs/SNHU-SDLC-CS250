@@ -78,5 +78,16 @@
        <li>Describe how the process would have been different with a waterfall development approach rather than the agile approach you used. For instance, you might discuss how a particular problem in development would have proceeded differently.</li>
        <li>Explain what factors you would consider when choosing a waterfall approach or an agile approach, using your course experience to back up your explanation.</li>
      </ul>
-
-  
+     <br/>
+ <h3>Essential Questions</h3>
+     <ul>
+     <li>How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?</li>
+     <li>How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?</li>
+     <li>What does it mean to be a good team member in software development?</li>
+     </ul>  
+ <h3>Answer</h3
+   <ul>
+   <li>By gathering user requirements as detailed as possible so more test case can be made based on user stories, and by creating user stories, I can make more modifications for my test cases; in order to adapt to the customer's change in the future</li>
+   <li>With a small team, Scrum approach is a prefered choice since the framework follows SDLC structure in a flexible way meaning customer's requirement change through any phases from requirement analysis to the testing will not affect the development time. It will keep going uninteruptedly without compromising the deadline.</li>
+   <li>A good team member respect every one in the company, contribute to the team adequately, collaborate well with the team to address any issues or impediments during Sprint meeting, espacially, follow any required framework for the sake of the company</li>
+   </ul>
